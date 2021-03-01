@@ -8,6 +8,12 @@
     Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;
 }
 
+
+/* selector{
+  properties: value;
+  color: aqua;
+} */
+
 /* -- CSS Reset -- */
 * {
   text-rendering: optimizeLegibility;
